@@ -38,13 +38,6 @@ As an Aerospace Engineering student, I am bridging the gap between flight mechan
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtanmay37&show_icons=true&theme=radical" alt="Tanmay's Stats" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - **GitHub:** https://github.com/iamtanmay37
 - **Focus:** Aerospace Engineering | Python | Data Science
