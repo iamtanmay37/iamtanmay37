@@ -40,7 +40,7 @@ As an Aerospace Engineering student, I am bridging the gap between flight mechan
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Tanmay's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtanmay37&show_icons=true&theme=radical" alt="Tanmay's Stats" />
 </p>
 
 ---
@@ -52,5 +52,3 @@ As an Aerospace Engineering student, I am bridging the gap between flight mechan
 *"The Alchemist taught me that when you want something, all the universe conspires in helping you to achieve it."*
 
 ---
-```
-
